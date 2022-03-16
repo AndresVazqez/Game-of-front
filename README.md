@@ -3,6 +3,15 @@
 I present a small project made with react js with the theme of game of thrones. 
 It is an application which lists the characters and houses of the series, making requests to the API: https://api.got.show/doc/.
 
+### Application deployed in <a href="https://game-of-front-reactjs.vercel.app/" >Here<a/>
+
+<img width="350" src="https://i.ibb.co/cTGkncx/gothome.png" >
+<img width="350" src="https://i.ibb.co/pjYZrcP/gotcharacters.png">
+<img width="350" src="https://i.ibb.co/nmJndQZ/gotcharacterdetails.png">
+<img width="350" src="https://i.ibb.co/3Stx6p0/gothouses.png">
+<img width="350" src="https://i.ibb.co/gTtCVmR/gothousesdetails.png">
+<img width="350" src="https://i.ibb.co/prNR1bF/gotchronology.png">
+
 
 
 # Getting Started with Create React App
