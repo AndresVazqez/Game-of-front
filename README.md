@@ -1,3 +1,10 @@
+## Hello World, 👋 
+
+I present a small project made with react js with the theme of game of thrones. 
+It is an application which lists the characters and houses of the series, making requests to the API: https://api.got.show/doc/.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
